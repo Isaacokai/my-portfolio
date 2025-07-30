@@ -15,10 +15,8 @@ Welcome to my personal portfolio website! This site showcases my skills, backgro
 Once this repository is published with [GitHub Pages](https://pages.github.com/), you can view the live site at:
 
 ```
-https://your-username.github.io/your-repo-name/
+[https://isaacokai.github.io/my-portfolio/]
 ```
-
-Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
 
 ## 🖥️ Local Setup
 1. **Clone or download** this repository.
