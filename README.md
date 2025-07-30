@@ -23,8 +23,8 @@ Once this repository is published with [GitHub Pages](https://pages.github.com/)
 2. Make sure the following files are in the root directory:
    - `index.html`
    - `style.css`
-   - `profile.jpg` (your profile picture)
-   - `OKAI NYARKO ISAAC current.PDF` (your CV)
+   - `profile.jpg` (my profile picture)
+   - `OKAI NYARKO ISAAC current.PDF` (my CV)
 3. Open `index.html` in your web browser to view the site locally.
 
 ## ✏️ Updating Your Portfolio
@@ -47,4 +47,4 @@ You can reach me via the contact form on the site or by email: okaiisaac57@gmail
 
 ---
 
-_This portfolio was built with HTML and CSS for the Vibe Coding Hackathon._ 
+_This portfolio was built with HTML and CSS for a Hackathon._ 
