@@ -1,50 +1,35 @@
-# Okai Nyarko Isaac – Personal Portfolio
+# Okai Nyarko Isaac – QA Portfolio (Manual + Automation)
 
-Welcome to my personal portfolio website! This site showcases my skills, background, projects, and achievements as a QA Engineer and Developer.
+This is a simple, fast-loading **QA Engineer portfolio landing page** designed to convert visitors into leads.
 
-## 🚀 Features
-- **About Me**: Learn about my background and passion for tech.
-- **Skills**: See the programming languages and tools I use.
-- **Education**: My academic journey.
-- **Projects**: Highlights of my work and research.
-- **Achievements**: Notable milestones.
-- **Contact Form**: Get in touch with me easily.
-- **Downloadable CV**: My resume is available for download.
+## Features
+- **Lead-gen sections**: Hero, About, Services, How I Work, Sample Bug Report, Social Proof, CTA, Contact
+- **Dark/Light mode**: Toggle in the header (remembers your choice)
+- **Mobile responsive**: Clean layout on phones and tablets
+- **Contact form**: Builds a pre-filled email draft (mailto fallback included)
 
-## 🌐 View Online
-Once this repository is published with [GitHub Pages](https://pages.github.com/), you can view the live site at:
-
-```
-[https://isaacokai.github.io/my-portfolio/]
-```
-
-## 🖥️ Local Setup
-1. **Clone or download** this repository.
-2. Make sure the following files are in the root directory:
-   - `index.html`
-   - `style.css`
-   - `profile.jpg` (my profile picture)
-   - `OKAI NYARKO ISAAC current.PDF` (my CV)
-3. Open `index.html` in your web browser to view the site locally.
-
-## ✏️ Updating Your Portfolio
-- To update your information, simply edit the `index.html` file.
-- To change your profile picture, replace `profile.jpg` with a new image (same filename).
-- To update your CV, replace the PDF file with a new version (same filename).
-- For style changes, edit `style.css`.
-
-## 📂 Project Structure
+## Project structure
 ```
 ├── index.html
 ├── style.css
+├── script.js
 ├── profile.jpg
-├── OKAI NYARKO ISAAC current.PDF
-├── README.md
+├── Isaac_QA_Resume_2026.pdf
+└── README.md
 ```
 
-## 📬 Contact
-You can reach me via the contact form on the site or by email: okaiisaac57@gmail.com
+## Run locally
+- Open `index.html` in your browser (no build step required).
 
----
+## Customize
+- **Email address**: update in `index.html` and `script.js` (search for `okaiisaac57@gmail.com`)
+- **LinkedIn**: update in `index.html` (Quick links section)
+- **CV**: replace `Isaac_QA_Resume_2026.pdf` with your new PDF (keep the same filename)
+- **Theme**: edit colors in `style.css` under `:root` (light) and `html[data-theme="dark"]` (dark)
 
-_This portfolio was built with HTML and CSS for a Hackathon._ 
+## Notes about the contact form
+The form creates a `mailto:` draft in the user’s email client. If a browser doesn’t open the mail app automatically, the page shows a fallback message with your email address.
+
+## Contact
+Email: `okaiisaac57@gmail.com`  
+LinkedIn: `https://www.linkedin.com/in/isaac-okai-nyarko`
